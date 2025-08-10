@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "sunday6",
+  "name": "react-vite-hono-ssr-starter",
   "main": "./src/worker/index.tsx",
   "compatibility_date": "2025-07-27",
   "compatibility_flags": [
